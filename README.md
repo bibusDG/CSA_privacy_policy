@@ -64,27 +64,29 @@ If you have questions about this Privacy Policy or GDPR compliance, please conta
 Email: [Insert Support Email]
 Company Name: [Insert Legal Company Name]
 Address: [Insert Registered Business Address, if applicable]
+
+
 PART II – TERMS OF SERVICE
 1. Acceptance of Terms
 By downloading or using Combat Shooting Analyzer, you agree to be bound by these Terms of Service.
 If you do not agree with these terms, do not use the App.
-2. Description of the Service
+3. Description of the Service
 Combat Shooting Analyzer is a performance measurement and analysis tool designed to assist users in analyzing movement and timing data using a compatible Bluetooth motion device.
 The App is intended for lawful use only.
-3. User Responsibility
+4. User Responsibility
 You agree:
 To use the App in compliance with all applicable local, national, and international laws.
 To use the App only in legal and authorized environments.
 That you are solely responsible for how you use the App and associated equipment.
 The developer is not responsible for misuse of the App or connected devices.
-4. No Warranty
+5. No Warranty
 The App is provided “AS IS” and “AS AVAILABLE” without warranties of any kind, either express or implied.
 We do not guarantee:
 That the App will be error-free.
 That results or performance metrics are perfectly accurate.
 That the App will meet specific user expectations.
 Use of the App is at your own risk.
-5. Limitation of Liability
+6. Limitation of Liability
 To the maximum extent permitted by law:
 The developer shall not be liable for:
 Any indirect or consequential damages,
@@ -93,7 +95,7 @@ Equipment damage,
 Personal injury,
 Legal consequences resulting from misuse.
 Users assume full responsibility for their activities and equipment.
-6. Intellectual Property
+7. Intellectual Property
 All content, design, trademarks, software code, and functionality within Combat Shooting Analyzer are the intellectual property of the developer.
 You may not:
 Copy
@@ -102,11 +104,11 @@ Reverse engineer
 Redistribute
 Resell
 any part of the App without prior written permission.
-7. Termination
+8. Termination
 We reserve the right to discontinue or modify the App at any time without prior notice.
-8. Governing Law
+9. Governing Law
 These Terms shall be governed by and interpreted in accordance with the laws of [Insert Country].
 For users located in the European Union, mandatory consumer protection laws of their country of residence may also apply.
-9. Changes to Terms
+10. Changes to Terms
 We may update these Terms from time to time.
 Continued use of the App after changes constitutes acceptance of the revised Terms.
