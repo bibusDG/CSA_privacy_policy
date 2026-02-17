@@ -112,3 +112,45 @@ For users located in the European Union, mandatory consumer protection laws of t
 10. Changes to Terms
 We may update these Terms from time to time.
 Continued use of the App after changes constitutes acceptance of the revised Terms.
+
+
+Support – Combat Shooting Analyzer
+Thank you for using Combat Shooting Analyzer.
+We are committed to providing reliable performance analysis tools and responsive support. If you need assistance, please review the information below.
+Contact Support
+For technical support, device connectivity issues, or general questions, please contact us at:
+Email: [Insert Support Email]
+Response Time: Within 1–2 business days
+When contacting support, please include:
+Device model (e.g., iPhone model)
+iOS version
+App version
+Description of the issue
+Screenshots (if applicable)
+This helps us resolve your issue faster.
+Frequently Asked Questions (FAQ)
+1. The app does not connect to the Bluetooth unit.
+Make sure Bluetooth is enabled on your device.
+Ensure the motion unit is powered on.
+Keep the unit within recommended range.
+Restart the app and try reconnecting.
+2. The motion data seems inaccurate.
+Make sure the unit is properly mounted.
+Verify the device is calibrated (if calibration is available).
+Ensure firmware (if applicable) is up to date.
+3. The timer does not start.
+Confirm required permissions are granted.
+Restart the app.
+Reinstall the app if necessary.
+4. Where is my session data stored?
+All training data is stored locally on your device.
+The app does not collect or transmit your data.
+Compatibility
+Combat Shooting Analyzer requires:
+Compatible Bluetooth motion unit
+Bluetooth enabled on your device
+Feature Requests
+We welcome suggestions to improve Combat Shooting Analyzer.
+Legal & Privacy
+The app does not collect personal data.
+For more details, please review our Privacy Policy.
