@@ -115,6 +115,7 @@ Continued use of the App after changes constitutes acceptance of the revised Ter
 
 
 SUPPORT
+
 Thank you for using Combat Shooting Analyzer.
 We are committed to providing reliable performance analysis tools and responsive support. If you need assistance, please review the information below.
 Contact Support
