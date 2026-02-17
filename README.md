@@ -114,7 +114,7 @@ We may update these Terms from time to time.
 Continued use of the App after changes constitutes acceptance of the revised Terms.
 
 
-Support – Combat Shooting Analyzer
+SUPPORT
 Thank you for using Combat Shooting Analyzer.
 We are committed to providing reliable performance analysis tools and responsive support. If you need assistance, please review the information below.
 Contact Support
