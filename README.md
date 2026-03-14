@@ -63,8 +63,11 @@ Changes will be reflected by updating the “Last updated” date at the top of 
 Continued use of the App constitutes acceptance of any changes.
 11. Contact Information
 If you have questions about this Privacy Policy or GDPR compliance, please contact:
+
 Email: bibusapps@gmail.com, grosserd81@gmail.com
+
 Company Name: BibusApps
+
 Address: Poland, Kwidzyn
 
 
