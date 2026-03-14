@@ -1,5 +1,6 @@
 # CSA_privacy_policy
 Combat Shooting Analyzer - privacy policy
+
 contact: bibusapps@gmail.com
 
 PART I – PRIVACY POLICY
